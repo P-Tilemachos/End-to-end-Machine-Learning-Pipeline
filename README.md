@@ -1,4 +1,4 @@
-# End-to-End Machine Learning Analysis
+# End-to-End Machine Learning Pipeline
 
 This repository contains an end-to-end machine learning project where core techniques are applied to a real dataset.  
 The project focuses on data inspection, preprocessing, supervised learning, unsupervised learning, and systematic performance evaluation.
